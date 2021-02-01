@@ -1,0 +1,25 @@
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Thomas Kinnen">
+    <meta name="geo.region" content="DE-BY" />
+    <meta name="geo.placename" content="Munich" />
+    <meta name="geo.position" content="48.13672;11.576754" />
+    <meta name="ICBM" content="48.13672, 11.576754" />
+    <meta name="description" content="{{ page.description}}">
+    <link rel="shortcut icon" href="/assets/ico/favicon.png">
+
+    <title>{{ page.title }}</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/assets/css/bootstrap.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="/assets/js/html5shiv.js"></script>
+      <script src="/assets/js/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Custom styles for this template -->
+    <link href="/assets/css/carousel.css" rel="stylesheet">
+  </head>

@@ -1,0 +1,7 @@
+    <div class="container marketing">
+      <hr class="featurette-divider">
+        <footer>
+          <p id="contact">&copy; 2017 Parkour München &middot; <a href="/impressum.html">Impressum</a></p>
+          <span class="pull-right"><a href="#">Back to top</a></span>
+        </footer>
+    </div>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include header.ext %}
+<!-- NAVBAR
+================================================== -->
+  <body>
+
+    {% include navbar.ext %}
+
+    {{ content }}
+
+    {% include footer.ext %}
+
+    {% include bsincludes.ext %}
+    {% include google-analytics.ext %}
+  </body>
+</html>
+
